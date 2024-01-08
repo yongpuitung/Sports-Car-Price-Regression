@@ -1,4 +1,4 @@
-# Regression Project using R - Predictive Modeling of Sports Car Prices - Exploring Factors and Model Performance
+# Regression Project using R - Predictive Modeling of Sports Car Prices
 
 ## Overview
 This project focuses on predictive modeling for sports car prices, leveraging statistical analysis in RStudio. The goal is to develop robust linear regression models that effectively predict sports car prices based on their functional and technical attributes.
@@ -7,7 +7,7 @@ This project focuses on predictive modeling for sports car prices, leveraging st
 With the growing demand for luxury vehicles, sports cars have become a significant segment in the automotive market. Consumers are increasingly interested in advanced features such as improved engines, acceleration times, and horsepower. This project aims to provide valuable insights into the factors influencing sports car prices, aiding car manufacturers, dealerships, and buyers in estimating the value of these high-end vehicles.
 
 ## Dataset
-The analysis utilizes the "Sports Car Prices" dataset sourced from Kaggle, which offers comprehensive information on various attributes of sports cars, including their prices. The dataset is publicly accessible at [[this link]](https://www.kaggle.com/datasets/rkiattisak/sports-car-prices-dataset). By exploring this dataset, we seek to understand the relationships between specific car features and their impact on pricing.
+The analysis utilizes the "Sports Car Prices" dataset sourced from Kaggle, which offers comprehensive information on various attributes of sports cars, including their prices. The dataset is publicly accessible at [this link](https://www.kaggle.com/datasets/rkiattisak/sports-car-prices-dataset). By exploring this dataset, we seek to understand the relationships between specific car features and their impact on pricing.
 
 ![Screenshot of Sports Car Prices Dataset](/img/sports_car.png)
 
