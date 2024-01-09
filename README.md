@@ -18,6 +18,18 @@ The project relies on RStudio as the primary statistical software for conducting
 - Develop and evaluate linear regression models to predict sports car prices.
 - Provide insights into the factors influencing sports car prices based on the model outcomes.
 
+## In the project, I applied various model building techniques, including:
+- Full Model Fitting
+- Generalized Linear Models (GLMs) Model Fitting
+- Linear Regression Analysis
+ - Linearity
+ - Homoscedasticity
+ - Autocorrelation
+ - Normality
+ - Residual Analysis
+- Logarithmic Transformation
+- Box-Cox Transformation
+
 ## Conclusion
 This project aims to contribute to the understanding of sports car pricing dynamics and provide a reliable predictive model for estimating the value of these high-performance vehicles. Feel free to explore the code and findings in this repository to gain insights into the relationships between sports car features and their market prices.
 
