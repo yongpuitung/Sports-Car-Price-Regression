@@ -22,11 +22,11 @@ The project relies on RStudio as the primary statistical software for conducting
 - Full Model Fitting
 - Generalized Linear Models (GLMs) Model Fitting
 - Linear Regression Analysis
- - Linearity
- - Homoscedasticity
- - Autocorrelation
- - Normality
- - Residual Analysis
+  - Linearity
+  - Homoscedasticity
+  - Autocorrelation
+  - Normality
+  - Residual Analysis
 - Logarithmic Transformation
 - Box-Cox Transformation
 
